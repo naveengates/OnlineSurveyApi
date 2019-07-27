@@ -1,3 +1,17 @@
 D:\Naveen Kumar N\OneDrive - TA DIGITAL\TA Digital\Personal\Interviews\OnlineSurveyAPI\OnlineSurveyAPI\obj\Debug\netcoreapp2.2\OnlineSurveyAPI.csproj.CoreCompileInputs.cache
 D:\Naveen Kumar N\OneDrive - TA DIGITAL\TA Digital\Personal\Interviews\OnlineSurveyAPI\OnlineSurveyAPI\obj\Debug\netcoreapp2.2\OnlineSurveyAPI.AssemblyInfoInputs.cache
 D:\Naveen Kumar N\OneDrive - TA DIGITAL\TA Digital\Personal\Interviews\OnlineSurveyAPI\OnlineSurveyAPI\obj\Debug\netcoreapp2.2\OnlineSurveyAPI.AssemblyInfo.cs
+D:\Naveen Kumar N\TA Digital\Personal\Code Challenges\GitSrc\OnlineSurveyAPI\OnlineSurveyAPI\bin\Debug\netcoreapp2.2\OnlineSurveyAPI.deps.json
+D:\Naveen Kumar N\TA Digital\Personal\Code Challenges\GitSrc\OnlineSurveyAPI\OnlineSurveyAPI\bin\Debug\netcoreapp2.2\OnlineSurveyAPI.runtimeconfig.json
+D:\Naveen Kumar N\TA Digital\Personal\Code Challenges\GitSrc\OnlineSurveyAPI\OnlineSurveyAPI\bin\Debug\netcoreapp2.2\OnlineSurveyAPI.runtimeconfig.dev.json
+D:\Naveen Kumar N\TA Digital\Personal\Code Challenges\GitSrc\OnlineSurveyAPI\OnlineSurveyAPI\bin\Debug\netcoreapp2.2\OnlineSurveyAPI.dll
+D:\Naveen Kumar N\TA Digital\Personal\Code Challenges\GitSrc\OnlineSurveyAPI\OnlineSurveyAPI\bin\Debug\netcoreapp2.2\OnlineSurveyAPI.pdb
+D:\Naveen Kumar N\TA Digital\Personal\Code Challenges\GitSrc\OnlineSurveyAPI\OnlineSurveyAPI\obj\Debug\netcoreapp2.2\OnlineSurveyAPI.csprojAssemblyReference.cache
+D:\Naveen Kumar N\TA Digital\Personal\Code Challenges\GitSrc\OnlineSurveyAPI\OnlineSurveyAPI\obj\Debug\netcoreapp2.2\OnlineSurveyAPI.csproj.CoreCompileInputs.cache
+D:\Naveen Kumar N\TA Digital\Personal\Code Challenges\GitSrc\OnlineSurveyAPI\OnlineSurveyAPI\obj\Debug\netcoreapp2.2\OnlineSurveyAPI.RazorAssemblyInfo.cache
+D:\Naveen Kumar N\TA Digital\Personal\Code Challenges\GitSrc\OnlineSurveyAPI\OnlineSurveyAPI\obj\Debug\netcoreapp2.2\OnlineSurveyAPI.RazorAssemblyInfo.cs
+D:\Naveen Kumar N\TA Digital\Personal\Code Challenges\GitSrc\OnlineSurveyAPI\OnlineSurveyAPI\obj\Debug\netcoreapp2.2\OnlineSurveyAPI.AssemblyInfoInputs.cache
+D:\Naveen Kumar N\TA Digital\Personal\Code Challenges\GitSrc\OnlineSurveyAPI\OnlineSurveyAPI\obj\Debug\netcoreapp2.2\OnlineSurveyAPI.AssemblyInfo.cs
+D:\Naveen Kumar N\TA Digital\Personal\Code Challenges\GitSrc\OnlineSurveyAPI\OnlineSurveyAPI\obj\Debug\netcoreapp2.2\OnlineSurveyAPI.RazorTargetAssemblyInfo.cache
+D:\Naveen Kumar N\TA Digital\Personal\Code Challenges\GitSrc\OnlineSurveyAPI\OnlineSurveyAPI\obj\Debug\netcoreapp2.2\OnlineSurveyAPI.dll
+D:\Naveen Kumar N\TA Digital\Personal\Code Challenges\GitSrc\OnlineSurveyAPI\OnlineSurveyAPI\obj\Debug\netcoreapp2.2\OnlineSurveyAPI.pdb
