@@ -1,0 +1,3 @@
+D:\Naveen Kumar N\OneDrive - TA DIGITAL\TA Digital\Personal\Interviews\OnlineSurveyAPI\OnlineSurveyAPI\obj\Debug\netcoreapp2.2\OnlineSurveyAPI.csproj.CoreCompileInputs.cache
+D:\Naveen Kumar N\OneDrive - TA DIGITAL\TA Digital\Personal\Interviews\OnlineSurveyAPI\OnlineSurveyAPI\obj\Debug\netcoreapp2.2\OnlineSurveyAPI.AssemblyInfoInputs.cache
+D:\Naveen Kumar N\OneDrive - TA DIGITAL\TA Digital\Personal\Interviews\OnlineSurveyAPI\OnlineSurveyAPI\obj\Debug\netcoreapp2.2\OnlineSurveyAPI.AssemblyInfo.cs
