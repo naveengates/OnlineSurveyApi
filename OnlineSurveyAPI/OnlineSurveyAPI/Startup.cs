@@ -11,6 +11,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using OnlineSurveyAPI.DBContexts;
+using OnlineSurveyAPI.Repository;
+using OnlineSurveyAPI.Repository.Interfaces;
 
 namespace OnlineSurveyAPI
 {
@@ -28,6 +30,7 @@ namespace OnlineSurveyAPI
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddDbContext<SurveyDBContext>(o => o.UseSqlServer(Configuration.GetConnectionString("SurveyDB")));
+            services.AddTransient<ISurveyRepository, SurveyRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

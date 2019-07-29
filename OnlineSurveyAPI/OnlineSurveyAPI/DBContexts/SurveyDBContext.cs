@@ -9,7 +9,7 @@ namespace OnlineSurveyAPI.DBContexts
         {
         }
 
-        public DbSet<Survey> surveys { get; set; }
+        public DbSet<Survey> Surveys { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

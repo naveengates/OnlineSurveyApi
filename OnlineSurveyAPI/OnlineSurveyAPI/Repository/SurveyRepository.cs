@@ -1,4 +1,5 @@
-﻿using OnlineSurveyAPI.Model;
+﻿using OnlineSurveyAPI.DBContexts;
+using OnlineSurveyAPI.Model;
 using OnlineSurveyAPI.Repository.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -9,19 +10,25 @@ namespace OnlineSurveyAPI.Repository
 {
     public class SurveyRepository : ISurveyRepository
     {
+        private readonly SurveyDBContext _dbContext;
+
+        public SurveyRepository(SurveyDBContext dbContext)
+        {
+            _dbContext = dbContext;
+        }
         public Survey GetSurveyById(int id)
         {
-            throw new NotImplementedException();
+            return _dbContext.Surveys.Find(id);
         }
 
         public IEnumerable<Survey> GetSurveys()
         {
-            throw new NotImplementedException();
+            return _dbContext.Surveys.ToList();
         }
 
         public void Save()
         {
-            throw new NotImplementedException();
+            _dbContext.SaveChanges();
         }
     }
 }
